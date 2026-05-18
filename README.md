@@ -23,26 +23,16 @@ Prosty oscyloskop zbudowany na Arduino i wyświetlaczu TFT przy użyciu bibliote
 
 ### Schemat połączenia
 
-![Podłączenie](Pictures/schemat_oscyloskopu.png)
+<img width="1053" height="564" alt="schemat_oscyloskop" src="https://github.com/user-attachments/assets/5f6a31ee-3787-40c3-afca-eca1e1c34dbc" />
 
 ## Wygląd urządzenia
 
-![Płytka stykowa](Pictures/płytka_oscyloskop.png)
-## Podłączenie
-
-### Schemat połączenia
-
-Dodaj tutaj zdjęcie podłączenia:
-
-![Podłączenie](images/wiring.jpg)
-
-## Wygląd urządzenia
-
-![Wyświetlacz](images/display.jpg)
+<img width="836" height="456" alt="płytka_oscyloskop" src="https://github.com/user-attachments/assets/7db530a5-4237-43c2-a701-3eaa5827c7e1" />
 
 ## Wygląd ekranu
 
-![Wyświetlacz](Pictures/ekran_oscyloskop.png)
+<img width="892" height="359" alt="ekran_oscyloskop" src="https://github.com/user-attachments/assets/fb47cd03-2ef5-4628-b0e2-a6109f1d8324" />
+
 
 
 
